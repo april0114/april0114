@@ -1,16 +1,32 @@
-### Hi there 👋
+<div align ="center">
+  
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=april0114&color=dbf3fa)
 
-<!--
-**april0114/april0114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+####  :wave: Welcome my github profile !
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=sue5520607)](https://solved.ac/sue5520607)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=april0114&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=april0114&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+<br>
+<br>
+
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<br>
+
+
+
+
+</div>
