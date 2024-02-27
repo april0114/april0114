@@ -4,8 +4,6 @@
 
 
 ####  :wave: Welcome my github profile !
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=sue5520607)](https://solved.ac/sue5520607)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=april0114&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
