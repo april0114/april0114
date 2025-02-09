@@ -1,37 +1,33 @@
-***
-####  :wave: Welcome my github profile !
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sue5520607)](https://solved.ac/sue5520607)
-![april0114's GitHub stats](https://github-readme-stats.vercel.app/api?username=april0114&show_icons=true&theme=radical)
+## Welcome my github profile !
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=april0114)](https://solved.ac/april0114)<br/>
 
-***
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="django" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"  alt="spring" width="45" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"alt="androidstudio" width="45" height="45"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"alt="c#" width="45" height="45" />
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
-</p>
+## Tools I Have Used and Learned
+![Java](https://img.shields.io/badge/Java-5382A1.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-306998.svg?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33.svg?style=for-the-badge&logo=django&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-333333.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 
+## About My Self
+
+### 🏫Education<br>
+2020.03 ~ 2025.02 : Seokyeong University (Computer Engineering)
+<br>
 <br>
 
+### 💼Work Experience<br>
+2024.10 ~ current : Server Engineer Intern in The Korea Times<br>
+2022.10 ~ 2022.12 : Business Manager in Scanderm<br>
 
+## My Commit
 ![snake gif](https://github.com/april0114/april0114/blob/output/github-contribution-grid-snake.svg)
 
