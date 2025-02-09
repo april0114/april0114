@@ -1,5 +1,5 @@
 
-## Welcome my github profile !
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=april0114)](https://solved.ac/april0114)<br/>
 
@@ -25,8 +25,8 @@
 <br>
 
 ### 💼Work Experience<br>
-2024.10 ~ current : Server Engineer Intern in The Korea Times<br>
-2022.10 ~ 2022.12 : Business Manager in Scanderm<br>
+2024.10 ~ current : Server Engineer Intern in 'The Korea Times'<br>
+2022.10 ~ 2022.12 : Business Manager in 'Scanderm'<br>
 
 ## My Commit
 ![snake gif](https://github.com/april0114/april0114/blob/output/github-contribution-grid-snake.svg)
