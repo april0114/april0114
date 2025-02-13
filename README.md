@@ -15,6 +15,9 @@
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-333333.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981.svg?style=for-the-badge&logo=rockylinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 
 ## About My Self
