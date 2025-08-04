@@ -31,6 +31,16 @@
 2024.10 ~ current : Server Engineer Intern in 'The Korea Times'<br>
 2022.10 ~ 2022.12 : Business Manager in 'Scanderm'<br>
 
+## My Pet<br>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=april0114&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/april0114"
+  width="600"
+  height="300"
+/>
+</a>
+  
+
 ## My Commit
 ![snake gif](https://github.com/april0114/april0114/blob/output/github-contribution-grid-snake.svg)
 
